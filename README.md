@@ -1,0 +1,1 @@
+la pagina se creo segun "https://www.figma.com/design/Oi4Ni8hZmWYkkZPAXZC3Dv/FOOD-WEBSITE-UI---BURGER-WEBSITE--Community-?node-id=0-1&p=f&t=fRgXGjOFNhETLEUQ-0"
