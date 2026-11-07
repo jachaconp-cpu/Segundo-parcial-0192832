@@ -25,6 +25,31 @@ body {
     letter-spacing: 2px;
 }
 
+header {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.navigation {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+.navigation a {
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 20px;
+    color: rgb(218, 212, 188);
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.navigation a:hover {
+    color: white;
+    transform: translateY(-3px);
+}
+
 .hero {
     min-height: 80vh;
     display: flex;
