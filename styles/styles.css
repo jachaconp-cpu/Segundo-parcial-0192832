@@ -376,3 +376,56 @@ header {
 .menu-indicators {
     transform: translateY(100px);
 }
+
+.menu-background {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+}
+
+.fondo {
+    position: absolute;
+    width: 310px;
+    height: 337px;
+    object-fit: contain;
+}
+
+/* Lado izquierdo */
+.fondo1 {
+    top: 120px;
+    left: 18%;
+}
+
+.fondo2 {
+    top: 380px;
+    left: 12%;
+}
+
+.fondo3 {
+    top: 570px;
+    left: 18%;
+}
+
+/* Lado derecho */
+.fondo4 {
+    top: 120px;
+    right: 18%;
+}
+
+.fondo5 {
+    top: 380px;
+    right: 12%;
+}
+
+.fondo6 {
+    top: 570px;
+    right: 18%;
+}
+
+/* Centro */
+.fondo7 {
+    top: 375px;
+    left: 60%;
+    transform: translateX(-50%);
+}
